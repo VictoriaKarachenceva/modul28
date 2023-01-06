@@ -3,7 +3,6 @@
 
 Ccылка на объект тестирования https://b2c.passport.rt.ru
 
-Ссылка на требования по проекту - https://drive.google.com/drive/folders/1bIQw-nXsrBt3UeiYatoCd61X1Pd2uora?usp=sharing
 
 Ссылка на тест-кейсы, баг-репорты: https://drive.google.com/drive/folders/1bIQw-nXsrBt3UeiYatoCd61X1Pd2uora?usp=sharing
 
